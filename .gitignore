@@ -301,3 +301,5 @@ pyrightconfig.json
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,python,django,jupyternotebooks
 torch_ex.ipynb
+백업
+.gitignore
