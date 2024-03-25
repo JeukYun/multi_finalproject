@@ -17,7 +17,7 @@
 ![Pytorch](/img/torch.png)
     - 로그변환, 배치정규화, 드롭아웃... 등 하이퍼 파라미터 수정하여 모델 고도화 진행  
 
-![alt text](/img/service.png.png)
+![alt text](/img/service.png)
 ### 2. 채용공고 및 국비교육 정보 제공
 > 데이터 직군별(엔지니어, 분석가, 사이언티스트...)로 어떤 Skill을 길러야 채용시장에서 살아남을 수 있는가?!  
 
